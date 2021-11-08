@@ -4,7 +4,7 @@
 
 ## Drupal 模块
 
-寻找Drupal模块主要来源是官方站点Drupal.org ( www.drupal.org/project/project_module )，每一个社区贡献的Drupal木块都会有一个独立的主页,在那里有此模块的不同版本的下载地址,甚至一些相关文档的连接和示例。
+寻找Drupal模块主要来源是官方站点Drupal.org ( www.drupal.org/project/project_module )，每一个社区贡献的Drupal模块都会有一个独立的主页,在那里有此模块的不同版本的下载地址,甚至一些相关文档的连接和示例。
 
 ## Drupal 主题
 
